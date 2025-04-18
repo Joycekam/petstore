@@ -7,7 +7,7 @@
     - Relations
     - Enums
     - Requêtes JPQL
-  -Utilisation d'Entity Manager
+- Utilisation d'Entity Manager
 
 ## Prérequis
 - Java 17+
