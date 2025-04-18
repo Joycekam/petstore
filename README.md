@@ -16,8 +16,8 @@
 
 ## Exécution
 1. Ouvrez le projet dans une IDE, plus précisement IntelliJ
-2. Créez une base de données dans MariDB et nommez le petstore
-3. Exécutez la classe Main
+2. Créez une base de données dans MariDB et nommez la petstore
+3. Exécutez la classe **Main**
 4. Et Admirez le résultat
 
 ## Fonctionnalités démontrées
